@@ -1,3 +1,4 @@
 ---
 display:
-   offers: asd               message: Discounts bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb!!
+   offers: 
+     message: Discounts bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb!!
