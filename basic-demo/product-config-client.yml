@@ -5,4 +5,4 @@ management:
         include: "*"
 display:
    offers: 
-     message: Discounts aaaaaaaa!!
+     message: Discounts xxxxxxxxx!!
